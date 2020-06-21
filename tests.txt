@@ -1,0 +1,1243 @@
+MOHIT BURKULE
+D:\engineering\proj\oop_mini_project\testing\t3>a
+
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+1
+
+Enter admin password = admin
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+2
+
+Enter your details :
+
+Enter your personal details
+
+
+Enter your First Name :
+s
+Enter your Last Name  :
+s
+Enter your Middle Name :
+s
+Enter your Father Name :
+Enter your Mother Name :
+s
+Enter your Address :
+s
+Enter your Gender :
+m
+Enter your Date Of Birth :
+1
+Enter your Contact Number :
+1
+Enter a password for your profile:
+s
+Enter Division of student :s
+Enter Roll no. of student :1
+
+ Student added successfully
+Student ID = 1
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+4
+
+
+1: CURRENT STUDENT LIST
+2: REMOVED STUDENT LIST 1
+
+The Personal Details of the student are :
+
+First Name : s
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :1
+Division :s
+ID :1
+
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+1
+
+Enter first name = t
+Enter middle/father's/husband's' name = t
+Enter last name = t
+Enter mother's name = t
+Enter DOB (DD/MM/YYYY) = 1
+Enter Gender (m/f) = m
+Enter current address = Enter contact number = 1
+Enter academic details
+
+Enter degree = t
+Enter University / Board = t
+Enter year of completion = 1
+Enter percentage/CGPA = 1
+To add more press 1 else to stop 0
+0
+Subject opted for teaching (DSA/OOP/COA/DM/DELD) = DSA
+Enter an appropriate password for the profiledsa
+
+ Staff added successfully
+Staff ID = 1
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+3
+
+
+1: CURRENT STAFF LIST
+2: REMOVED STAFF LIST 1
+
+
+YOUR PROFILE DETAILS ARE
+
+Your ID = 1
+Name = t t t
+Father's/Husband's name  = t
+Mother's name = t
+Gender = m
+Date of Birth = 1
+Address =
+Contact Number = 1
+Academic Details =
+
+Degree  University      Year    Percentage/SGPA
+
+t       t               1       1
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+7
+
+EXITTED FROM THIS MENU
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 1
+
+ENTER PASSWORD = s
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+1
+
+The Personal Details of the student are :
+
+First Name : s
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :1
+Division :s
+ID :1
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+2
+
+The Attendance of the student in the 5 subjects are
+
+Data Structures And Algorithms : 0
+Object Oriented Programming : 0
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 1
+
+ENTER PASSWORD = DSA
+INCORRECT PASSWORD
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 1
+
+ENTER PASSWORD = dsa
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT1
+
+
+YOUR PROFILE DETAILS ARE
+
+Your ID = 1
+Name = t t t
+Father's/Husband's name  = t
+Mother's name = t
+Gender = m
+Date of Birth = 1
+Address =
+Contact Number = 1
+Academic Details =
+
+Degree  University      Year    Percentage/SGPA
+
+t       t               1       1
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT2
+
+For entering attendance enter id of student = 1
+
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+1
+
+Enter attendance in DSA = 12
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT3
+
+For entering marks enter id of student = 1
+
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+1
+
+Enter marks in DSA = 11
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 1
+
+ENTER PASSWORD = dsa
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 1
+
+ENTER PASSWORD = s
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+1
+
+The Personal Details of the student are :
+
+First Name : s
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :1
+Division :s
+ID :1
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+2
+
+The Attendance of the student in the 5 subjects are
+
+Data Structures And Algorithms : 12
+Object Oriented Programming : 0
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+3
+
+The Marks of the student in the 5 subjects are
+
+Data Structures And Algorithms : 11
+Object Oriented Programming : 0
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+4
+
+D:\engineering\proj\oop_mini_project\testing\t3>a
+
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 1
+
+ENTER PASSWORD = s
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+1
+
+The Personal Details of the student are :
+
+First Name : s
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :1
+Division :s
+ID :1
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+4
+
+D:\engineering\proj\oop_mini_project\testing\t3>a
+
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+1
+
+Enter admin password = admin
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+1
+
+Enter first name = o
+Enter middle/father's/husband's' name = o
+Enter last name = o
+Enter mother's name = o
+Enter DOB (DD/MM/YYYY) = 1
+Enter Gender (m/f) = f
+Enter current address = Enter contact number = 1
+Enter academic details
+
+Enter degree = d
+Enter University / Board = u
+Enter year of completion = 1
+Enter percentage/CGPA = 1
+To add more press 1 else to stop 0
+0
+Subject opted for teaching (DSA/OOP/COA/DM/DELD) = OOP
+Enter an appropriate password for the profileoop
+
+ Staff added successfully
+Staff ID = 2
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+7
+
+EXITTED FROM THIS MENU
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 2
+
+ENTER PASSWORD = oop
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT1
+
+
+YOUR PROFILE DETAILS ARE
+
+Your ID = 2
+Name = o o o
+Father's/Husband's name  = o
+Mother's name = o
+Gender = f
+Date of Birth = 1
+Address =
+Contact Number = 1
+Academic Details =
+
+Degree  University      Year    Percentage/SGPA
+
+d       u               1       1
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT2
+
+For entering attendance enter id of student = 1
+
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+2
+
+Enter attendance in OOP = 45
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT3
+
+For entering marks enter id of student = 1
+
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+2
+
+Enter marks in OOP = 67
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 1
+
+ENTER PASSWORD = s
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+3
+
+The Marks of the student in the 5 subjects are
+
+Data Structures And Algorithms : 11
+Object Oriented Programming : 67
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+2
+
+The Attendance of the student in the 5 subjects are
+
+Data Structures And Algorithms : 12
+Object Oriented Programming : 45
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+1
+
+Enter admin password = admin
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+3
+
+
+1: CURRENT STAFF LIST
+2: REMOVED STAFF LIST 1
+
+
+YOUR PROFILE DETAILS ARE
+
+Your ID = 1
+Name = t t t
+Father's/Husband's name  = t
+Mother's name = t
+Gender = m
+Date of Birth = 1
+Address =
+Contact Number = 1
+Academic Details =
+
+Degree  University      Year    Percentage/SGPA
+
+t       t               1       1
+
+
+YOUR PROFILE DETAILS ARE
+
+Your ID = 2
+Name = o o o
+Father's/Husband's name  = o
+Mother's name = o
+Gender = f
+Date of Birth = 1
+Address =
+Contact Number = 1
+Academic Details =
+
+Degree  University      Year    Percentage/SGPA
+
+d       u               1       1
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+4
+
+
+1: CURRENT STUDENT LIST
+2: REMOVED STUDENT LIST 1
+
+The Personal Details of the student are :
+
+First Name : s
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :1
+Division :s
+ID :1
+
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+2
+
+Enter your details :
+
+Enter your personal details
+
+
+Enter your First Name :
+s2
+Enter your Last Name  :
+s
+Enter your Middle Name :
+s
+Enter your Father Name :
+Enter your Mother Name :
+s
+Enter your Address :
+s
+Enter your Gender :
+m
+Enter your Date Of Birth :
+1
+Enter your Contact Number :
+1
+Enter a password for your profile:
+s2
+Enter Division of student :d
+Enter Roll no. of student :2
+
+ Student added successfully
+Student ID = 2
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+4
+
+
+1: CURRENT STUDENT LIST
+2: REMOVED STUDENT LIST 1
+
+The Personal Details of the student are :
+
+First Name : s
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :1
+Division :s
+ID :1
+
+
+The Personal Details of the student are :
+
+First Name : s2
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :2
+Division :d
+ID :2
+
+
+
+ ADMIN MENU
+
+1:ADD NEW STAFF
+2:ADD NEW STUDENT
+3:GET LIST OF STAFFS
+4:GET LIST OF STUDENTS
+5:REMOVE STAFF
+6:REMOVE STUDENT
+7: EXIT
+7
+
+EXITTED FROM THIS MENU
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 2
+
+ENTER PASSWORD = s2
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+1
+
+The Personal Details of the student are :
+
+First Name : s2
+Last Name : s
+Middle Name : s
+Father Name :
+Mother Name : s
+Address : s
+Gender : m
+Date Of Birth : 1
+Contact Number : 1
+The Academic Details of the student are :
+
+Class :2
+Division :d
+ID :2
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+2
+
+The Attendance of the student in the 5 subjects are
+
+Data Structures And Algorithms : 0
+Object Oriented Programming : 0
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+3
+
+The Marks of the student in the 5 subjects are
+
+Data Structures And Algorithms : 0
+Object Oriented Programming : 0
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 1
+
+ENTER PASSWORD = dsa
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT2
+
+For entering attendance enter id of student = 2
+
+ Student not found
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+1
+
+Enter attendance in DSA = 13
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 2
+
+ENTER PASSWORD = s2
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+2
+
+The Attendance of the student in the 5 subjects are
+
+Data Structures And Algorithms : 13
+Object Oriented Programming : 0
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 2
+
+ENTER PASSWORD = oop
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT2
+
+For entering attendance enter id of student = 2
+
+ Student not found
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+2
+
+Enter attendance in OOP = 1
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 2
+
+ENTER PASSWORD = s2
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+2
+
+The Attendance of the student in the 5 subjects are
+
+Data Structures And Algorithms : 13
+Object Oriented Programming : 1
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+2
+
+Enter staff ID = 2
+
+ENTER PASSWORD = oop
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT3
+
+For entering marks enter id of student = 2
+
+ Student not found
+1 : DSA
+2 : OOP
+3 : DM
+4 : COA
+5 : DELD
+2
+
+Enter marks in OOP = 30
+
+MENU
+
+1:VIEW PR0FILE
+2:ADD ATTENDANCE
+3:ADD MARKS
+4:EXIT4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 2
+
+ENTER PASSWORD = s2
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+3
+
+The Marks of the student in the 5 subjects are
+
+Data Structures And Algorithms : 0
+Object Oriented Programming : 30
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+3
+
+Enter student ID = 1
+
+ENTER PASSWORD = s
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+3
+
+The Marks of the student in the 5 subjects are
+
+Data Structures And Algorithms : 11
+Object Oriented Programming : 67
+Discrete Mathematics : 0
+Computer Organization And Architecture : 0
+Digital Electronics And Logic Design : 0
+
+
+MENU
+
+1:VIEW PR0FILE
+2:VIEW ATTENDANCE
+3:VIEW MARKS
+4:EXIT
+4
+
+Exitted
+    MENU
+
+1: ADMIN
+2: STAFF
+3: STUDENT
+4: EXIT
+4
+
+D:\engineering\proj\oop_mini_project\testing\t3>
